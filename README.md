@@ -43,4 +43,4 @@ Play the game here (GitHub Pages link):
 🚀 Live Demo
 
 Play the game here (GitHub Pages link):
-https://your-username.github.io/your-repo-name
+(https://saurabh11311.github.io/Guess-The-Color/)
