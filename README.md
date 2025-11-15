@@ -44,3 +44,14 @@ Play the game here (GitHub Pages link):
 
 Play the game here (GitHub Pages link):
 (https://saurabh11311.github.io/Guess-The-Color/)
+
+
+
+
+
+
+Lve Demo Image:-
+
+
+<img width="1484" height="793" alt="image" src="https://github.com/user-attachments/assets/9affd590-486d-47cc-9ba7-db7c1e2c75f0" />
+
