@@ -34,3 +34,13 @@ HTML5
 CSS3
 
 JavaScript
+
+
+
+🚀 Live Demo
+
+Play the game here (GitHub Pages link):
+🚀 Live Demo
+
+Play the game here (GitHub Pages link):
+https://your-username.github.io/your-repo-name
